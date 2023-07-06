@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Profile</title>
+    </head>
+    <body>
+
+
+        <img src="picture.jpg" alt="Image" style="float:right;width:250px;height:250px;">
+        
+        <h1 style="color: black">ABOUT ME</h1>
+        
+        <p style="color: blue;">COMPLETE NAME: Santiago Mark Habuchi</p>
+        
+        <p style="color: blue;">ADDRESS: Purok 5, San Fernando Sur Cabiao Nueva Ecija </p>
+        
+        <p style="color: blue;">ACTIVE CONTACT NUMBER: 09947324722</p>
+        
+        <p style="color: blue;">FB NAME: Mark Santiago</p>
+        
+        <p style="color: blue;">EMAIL ADDRESS: maha.santiago.au@phinmaed.com</p>
+        
+        <p style="color: blue;">PHILOSOPHY IN LIFE: Life is like riding a bicycle. To keep your balance you must keep moving.</p>
+
+    </body>
+</html>        
